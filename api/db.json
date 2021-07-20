@@ -1,0 +1,14 @@
+{
+  "specialties": [
+    {"id": 1, "text": "Obstetrics and gynecology"},
+    {"id": 2, "text": "Endocrinology"},
+    {"id": 3, "text": "Cardiology"},
+    {"id": 4, "text": "Dermatology"},
+    {"id": 5, "text": "Orthopaedic surgery"},
+    {"id": 6, "text": "Internal medicine"},
+    {"id": 7, "text": "Gastroenterology"},
+    {"id": 8, "text": "Psychiatry"},
+    {"id": 9, "text": "Neurology"},
+    {"id": 10, "text": "Urology"}
+  ]
+}
